@@ -15,7 +15,6 @@
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nishatiwari1719)
 [![LeetCode Badge](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/nishatiwari1719)
-[![GeeksForGeeks Badge](https://img.shields.io/badge/GeeksForGeeks-3F9037?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/auth/nishatiwari1719/)
 
 ### Languages and Tools:
 
