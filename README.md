@@ -28,6 +28,7 @@
 </p>
 
 <p align="center">
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nishatiwari1719&layout=compact)
-  ![Nisha Tiwari's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nishatiwari1719)
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nishatiwari1719&layout=compact&hide_border=true" alt="Top Languages" />
+
+  <img src="https://github-readme-stats.vercel.app/api?username=nishatiwari1719&show_icons=true&hide_border=true" alt="GitHub Stats" />
 </p>
