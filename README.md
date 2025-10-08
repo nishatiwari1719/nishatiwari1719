@@ -30,7 +30,7 @@
 </p>
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nishatiwari1719&layout=compact&hide_border=true" alt="Top Languages" />
+  <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nishatiwari1719&layout=compact&hide_border=true" alt="Top Languages" />
 
-  <img src="https://github-readme-stats.vercel.app/api?username=nishatiwari1719&show_icons=true&hide_border=true" alt="GitHub Stats" />
+  <img align="top" src="https://github-readme-stats.vercel.app/api?username=nishatiwari1719&show_icons=true&hide_border=true" alt="GitHub Stats" />
 </p>
