@@ -1,6 +1,6 @@
 # Hi, I’m Nisha
 
-- I’m a Software Engineer, interested in developing apps using Angular and Spring boot. Contributing to build quality software and excited to contribute in impactful projects.
+- A full-stack focused Software Engineer with expertise in Angular and Spring Boot. Driven to contribute to impactful projects and maintain exceptional quality throughout the development lifecycle.
 
 ![Profile Views](https://komarev.com/ghpvc/?username=nishatiwari1719&label=Profile%20views&color=0e75b6&style=flat)
 
