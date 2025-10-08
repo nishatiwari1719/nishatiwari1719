@@ -6,11 +6,16 @@
 
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=nishatiwari1719)
 
-[FOLLOW @YOUR_GITHUB_USERNAME](https://github.com/nishatiwari1719)
+[PLEASE FOLLOW @nishatiwari1719](https://github.com/nishatiwari1719)
 
 * 💡 I'm currently working with **Java**, **Spring Boot**, **Angular**.
 * 🧑‍💻 All of my projects are available at **[https://github.com/nishatiwari1719](https://github.com/nishatiwari1719)**
 * 📧 How to reach me **[nishatiwari1719@gmail.com](mailto:nishatiwari1719@gmail.com)**
 * 💼 Know about my experiences **https://www.linkedin.com/in/nishatiwari1719/**
+
+### Socials:
+
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nishatiwari1719)
+[![LeetCode Badge](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/nishatiwari1719)
 
 ![Nisha Tiwari's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nishatiwari1719)
