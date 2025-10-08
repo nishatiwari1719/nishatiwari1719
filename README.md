@@ -6,8 +6,6 @@
 
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=nishatiwari1719)
 
-[PLEASE FOLLOW @nishatiwari1719](https://github.com/nishatiwari1719)
-
 * 💡 I'm currently working with **Java**, **Spring Boot**, **Angular**.
 * 🧑‍💻 All of my projects are available at **[https://github.com/nishatiwari1719](https://github.com/nishatiwari1719)**
 * 📧 How to reach me **[nishatiwari1719@gmail.com](mailto:nishatiwari1719@gmail.com)**
@@ -17,5 +15,14 @@
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nishatiwari1719)
 [![LeetCode Badge](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/nishatiwari1719)
+
+### Languages and Tools:
+
+<p align="center">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
+</p>
 
 ![Nisha Tiwari's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nishatiwari1719)
