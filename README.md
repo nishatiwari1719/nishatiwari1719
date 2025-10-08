@@ -27,4 +27,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
 </p>
 
-![Nisha Tiwari's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nishatiwari1719)
+<p align="center">
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nishatiwari1719&layout=compact)
+  ![Nisha Tiwari's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nishatiwari1719)
+</p>
