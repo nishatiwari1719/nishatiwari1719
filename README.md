@@ -1,8 +1,6 @@
-# About me
+# Hi, I’m Nisha
 
-- Hi, I’m Nisha.
-- I’m a Software Engineer.
-- I’m interested in developing apps using Angular and Spring boot.
+- I’m a Software Engineer, interested in developing apps using Angular and Spring boot. Contributing to build quality software and excited to contribute in impactful projects. 
 
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=nishatiwari1719)
 
