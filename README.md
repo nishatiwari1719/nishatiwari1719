@@ -8,7 +8,7 @@
 
 * 💡 I'm currently working with **Java** and **Spring Boot**.
 * 💻 All of my projects are available at **[https://github.com/nishatiwari1719](https://github.com/nishatiwari1719)**
-* 📧 How to reach me **[nishatiwari1719@gmail.com](mailto:nishatiwari1719@gmail.com)**
+* 📧 Email: **[nishatiwari1719@gmail.com](mailto:nishatiwari1719@gmail.com)**
 * 💼 Know about my experiences **https://www.linkedin.com/in/nishatiwari1719/**
 
 ### Socials:
